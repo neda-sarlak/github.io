@@ -28,8 +28,7 @@
                 <h2 dir="RTL" style="line-height: 107%; font-size: 16px; font-family: Corbel, sans-serif; color: rgb(0, 114, 199); text-decoration: underline; margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; text-align: center;"><span style='line-height:107%;font-family:"B Nazanin";color:#0072C7;'>سوابق کاری</span></h2>
                 <div style="text-align: center;"><strong><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>موسسه خیریه دا&nbsp;</span></strong><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>(فروردین1399)</span></div>
                 <div style="text-align: center;"><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>مسئول و طراح سایت</span></div>
-                               <div style="text-align: center;"><strong><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>دبستان غیر دولتی نور  </span></strong><span style='line-height:107%;font-family:"B Nazanin";'>&nbsp;(آبان 1400)</span></div>
-
+                <div style="text-align: center;"><strong><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>دبستان غیر دولتی نور  </span></strong><span style='line-height:107%;font-family:"B Nazanin";'>&nbsp;(آبان 1400)</span></div>
                 <div style="text-align: center;"><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'> مسئول شبکه و سایت </span></div>
                 <div style="text-align: center;"><strong><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>انجمن علمی مطالعات نهج البلاغه ایران</span></strong><span style='line-height:107%;font-family:"B Nazanin";'>&nbsp;(فروردین 1398)</span></div>
                 <div style="text-align: center;"><span style='line-height:107%;font-family:"B Nazanin";font-size:13px;'>مسئول و طراح سایت&nbsp;</span></div>

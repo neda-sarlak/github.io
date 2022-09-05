@@ -14,7 +14,8 @@
                 <div style="text-align: center;"><span style='font-size:19px;line-height:107%;font-family:"B Nazanin";color:#0072C7;'>مشخصات فردی</span></div>
                 <div style="text-align: center;"><span style='font-size:13px;line-height:107%;font-family:"B Nazanin";font-weight:normal;'>ندا سرلک&nbsp;</span></div>
                 <div style="text-align: center;"><span style='font-size:13px;line-height:107%;font-family:"B Nazanin";font-weight:normal;'>متولد 30/3/1361&nbsp;</span></div>
-                <div style="text-align: center;"><span style='font-size:13px;line-height:107%;font-family:"B Nazanin";font-weight:normal;'>دانشجوی کارشناسی مهندسی کامپیوتر دانشگاه پیام نور واحد پاکدشت ورودی 1397</span></div>
+                <div style="text-align: center;"><span style='font-size:13px;line-height:107%;font-family:"B Nazanin";font-weight:normal;'>  کارشناسی مهندسی کامپیوتر </span></div>
+                 <div style="text-align: center;"><span style='font-size:13px;line-height:107%;font-family:"B Nazanin";font-weight:normal;'>  دانشجوی کارشناسی ارشد مهندسی کامپیوتر گرایش هوش مصنوعی </span></div>
                 <div style="text-align: center;"><span style='font-size:13px;line-height:107%;font-family:"B Nazanin";font-weight:normal;'>متأهل و دارای 3 فرزند (2پسر و 1 دختر)</span></div>
                 <div style="text-align: center;"><span dir="LTR">&nbsp;</span></div>
                 <h2 dir="RTL" style="line-height: 107%; font-size: 16px; font-family: Corbel, sans-serif; color: rgb(0, 114, 199); text-decoration: underline; margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; text-align: center;"><span style='line-height:107%;font-family:"B Nazanin";color:#0072C7;'>مهارت ها</span></h2>
